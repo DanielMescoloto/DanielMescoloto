@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel H. G. Mescoloto </h1>
-<h3 align="center"> Nothing special. I am just passionately developer 😊 </h3>
+<h3 align="center"> Nothing special. I am just a passionate developer 😊 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DanielMescoloto&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
